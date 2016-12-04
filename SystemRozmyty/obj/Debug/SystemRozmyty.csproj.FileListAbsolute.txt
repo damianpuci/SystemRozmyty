@@ -1,0 +1,9 @@
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\bin\Debug\SystemRozmyty.exe.config
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\obj\Debug\SystemRozmyty.csprojResolveAssemblyReference.cache
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\obj\Debug\SystemRozmyty.Form1.resources
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\obj\Debug\SystemRozmyty.Properties.Resources.resources
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\obj\Debug\SystemRozmyty.csproj.GenerateResource.Cache
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\bin\Debug\SystemRozmyty.exe
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\bin\Debug\SystemRozmyty.pdb
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\obj\Debug\SystemRozmyty.exe
+c:\users\damian1\documents\visual studio 2015\Projects\SystemRozmyty\SystemRozmyty\obj\Debug\SystemRozmyty.pdb

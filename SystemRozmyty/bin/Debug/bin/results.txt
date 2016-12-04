@@ -1,0 +1,8 @@
+Sterownik rozmyty dla pracy wycireraczek
+
+Na podstawie dwoch wartosci wejsciowych otrzymujemy wynik wyjsciowy bedacy intensywnoscia pracy wycieraczek, gdzie 0 to brak pracy, a 10 to praca maksynmalna.
+
+
+Dla opadow = 12 , i predkosci  = 123
+
+Poziom wycieraczek ustawiono na : 2.99
